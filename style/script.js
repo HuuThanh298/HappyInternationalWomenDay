@@ -35,7 +35,7 @@ const songs = [
   },
   {
     title: "Track 06 x Nơi Này Có Anh",
-    cover: "style/sound/IMG_2121.JPG",
+    cover: "style/sound/Anh (3).jpg",
     src: "style/sound/Track 06 x Nơi Này Có Anh.mp3",
   },
   {
